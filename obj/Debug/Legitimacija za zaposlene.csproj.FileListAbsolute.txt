@@ -1,0 +1,13 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\bin\Debug\baza.mdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\bin\Debug\Legitimacija za zaposlene.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\bin\Debug\Legitimacija za zaposlene.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\bin\Debug\Legitimacija za zaposlene.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija za zaposlene.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija za zaposlene.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija_za_zaposlene.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija_za_zaposlene.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija za zaposlene.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija za zaposlene.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija za zaposlene.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija za zaposlene.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Legitimacija za zaposlene\Legitimacija za zaposlene\obj\Debug\Legitimacija_za_zaposlene.Form2.resources
